@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MoneWayChallenge</string>
+    <string name="search_place_holder">Entrez votre requête</string>
+    <string name="contributors">Contributeurs</string>
+    <string name="branches">Branches</string>
+</resources>
